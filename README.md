@@ -22,5 +22,5 @@ Prediction of used cars price - We have to predict that at what price the used c
 
 Data Set ---> Data Pre processing ---> Train Test Split ---> Model Fitting ---> Feed New Data to Model ---> Prediction (Car Price)
 
----  Data Set Taken From Kaggle  ---
+Data Set Taken From Kaggle
 
